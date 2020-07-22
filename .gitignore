@@ -50,6 +50,7 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
+.vscode
 
 # Translations
 *.mo
@@ -109,6 +110,16 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+pyenv.cfg
+
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+pip-selfcheck.json
 
 # Spyder project settings
 .spyderproject
